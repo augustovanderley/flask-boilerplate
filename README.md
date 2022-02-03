@@ -1,1 +1,1 @@
-# flask-boilerplate
+# flask-course
